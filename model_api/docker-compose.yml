@@ -1,0 +1,8 @@
+services:
+  hakaton:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hakaton:latest
+    ports:
+      - "8000:8000"
