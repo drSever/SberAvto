@@ -1,0 +1,7 @@
+services:
+  ga_churn_api:
+    build: ./model_api        # путь до Dockerfile вашего сервиса
+    container_name: ga_churn_api
+    ports:
+      - "8000:8000"
+    # при желании: зависимости, environment и т.д.

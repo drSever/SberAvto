@@ -1,0 +1,17 @@
+{
+  "event_categories_number": 3,
+  "hit_number_median": 2,
+  "visit_number": 4,
+  "month": 5,
+  "day_of_week": 3,
+
+  "utm_source": "google",
+  "utm_medium": "cpc",
+  "device_category": "mobile",
+  "device_brand": "apple",
+  "device_browser": "chrome",
+  "geo_country": "russia",
+  "geo_city": "moscow",
+  "time_of_day": "evening",
+  "top_car_brand": "mercedes"
+}
